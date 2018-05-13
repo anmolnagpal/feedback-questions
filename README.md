@@ -1,7 +1,7 @@
 # Team Feedback Questions
 
 
-## [About WorkPlace](./workplace.md)
-## [About Team](./workplace.md)
+## [About Workplace](./workplace.md)
+## [About Team](./team.md)
 ## [About Manager](./manager.md)
 ## [Others](./others.md)
