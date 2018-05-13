@@ -1,0 +1,13 @@
+#ABOUT MANAGER
+•    How frequently do you receive recognition from your manager?
+•    On a scale of 1 to 10, how comfortable do you feel giving upwards feedback to your supervisor?
+•    Does your management team set clear goals? 
+•    How well does your supervisor support your developmental goals?
+•    Do you feel respected by your direct supervisor? 
+•    If your direct supervisor was an animal, what would he or she be? 
+•    Are you satisfied with your manager's overall performance as a manager?
+•    Does your manager create a trusting and open environment?
+•    Does your manager treat everyone on the team fairly?
+•    Is your manager responsive to your ideas, requests, and suggestions?
+•    Does your manager have the expertise and ability to help you and your team succeed?
+•    Does your manager recognize the importance of your personal and family life?
