@@ -1,4 +1,4 @@
-#ABOUT MANAGER
+# ABOUT MANAGER
 •    How frequently do you receive recognition from your manager?
 •    On a scale of 1 to 10, how comfortable do you feel giving upwards feedback to your supervisor?
 •    Does your management team set clear goals? 
