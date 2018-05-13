@@ -3,8 +3,7 @@
 - On a scale of 1 to 10, how comfortable do you feel giving upwards feedback to your supervisor?
 - Does your management team set clear goals? 
 - How well does your supervisor support your developmental goals?
-- Do you feel respected by your direct supervisor? 
-- If your direct supervisor was an animal, what would he or she be? 
+- Do you feel respected by your direct supervisor?  
 - Are you satisfied with your manager's overall performance as a manager?
 - Does your manager create a trusting and open environment?
 - Does your manager treat everyone on the team fairly?
