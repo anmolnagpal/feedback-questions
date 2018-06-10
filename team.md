@@ -15,5 +15,7 @@
   - Somewhat professionally
   - Not so professionally
   - Not at all professionally 
--   
+- **How efficiently are team meetings conducted.**
+- **How fairly are resposibilities shared among your team’s members**
+- **Is Your team too large, too small or about the right size.**   
 
